@@ -110,12 +110,12 @@ if __name__ == '__main__':
                     webbrowser.open(site[1])
 
         elif "jarvis play music".lower() in query.lower():
-            musicPath = r"E:\[Songs]\Tumhari Jagga-Zack Knight.mp3"
+            musicPath = r"ENTER PATH"
             say("opening music sir...")
             os.startfile(musicPath)
 
         elif "play the movie".lower() in query.lower():
-            moviePath = r"E:\[Movies]\Thor.Ragnarok.2017.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv"
+            moviePath = r"ENTER PATH"
             say("opening movie sir...")
             os.startfile(moviePath)
 
