@@ -8,7 +8,7 @@ import time
 chrome_options = Options()
 chrome_options.add_argument('--log-level=3')  # log leve = 3 means it receives server message
 chrome_options.headless = False  # if we turn this to True then the opening window of the following page is not be seen
-Path = "D:\[Programming]\[Python Code]\[J.A.R.V.I.S.]\chromedriver.exe"
+Path = "PATH OF chromedriver.exe FILE"
 
 driver = webdriver.Chrome(Path, options=chrome_options)
 driver.maximize_window()
