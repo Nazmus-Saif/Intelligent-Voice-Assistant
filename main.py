@@ -1,5 +1,4 @@
 import time
-
 import speech_recognition
 import os
 import openai
