@@ -42,4 +42,4 @@ Ensure the following dependencies are installed before running the project:
 
 ## Note
 
-An updated code will be added soon.
+Updated code will be added soon.
