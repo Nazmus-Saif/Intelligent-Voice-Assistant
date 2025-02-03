@@ -24,22 +24,7 @@ Jarvis is a voice-controlled AI assistant that can perform various tasks such as
   - Answers queries using OpenAI's GPT model
   - Stores chat history
   - Saves responses to text files
-
-## Requirements
-
-Ensure the following dependencies are installed before running the project:
-
-- Python 3.x
-- Required Python Libraries:
-  ```bash
-  pip install speechrecognition pyaudio openai dotenv pytz
-  ```
-- Set up an OpenAI API key in a `.env` file:
-  ```
-  GEN-Z=your_openai_api_key
-  ABOUT=your_personalized_prompt
-  ```
-
+    
 ## Note
 
 Updated code will be added soon.
